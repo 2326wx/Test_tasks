@@ -19,7 +19,7 @@ For script check: place it to **source_data** folder.
 ## Results
 
 
-<img src = "https://github.com/2326wz/Test_tasks/tree/master/Goods%20shelf%20clustering/results/shelf_clustered_2df842e3-2a23-46f0-8ef5-4e4806cfb92e_0.jpeg>
+<img src = "https://github.com/2326wz/Test_tasks/tree/master/Goods%20shelf%20clustering/results/shelf_clustered_2df842e3-2a23-46f0-8ef5-4e4806cfb92e_0.jpeg">
 
 
 
