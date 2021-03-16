@@ -1,4 +1,4 @@
-# C
+# ML multitarget regression with CatBoost
 
 ## Task
 
