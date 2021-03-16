@@ -18,9 +18,9 @@ For script check: place it to **source_data** folder.
 
 ## Results
 
-<img src = "https://github.com/2326wz/Test_tasks/blob/master/Goods%20shelf%20clustering/results/shelf_clustered_2df842e3-2a23-46f0-8ef5-4e4806cfb92e_0.jpeg" width=300> <img src = "https://github.com/2326wz/Test_tasks/blob/master/Goods%20shelf%20clustering/results/shelf_clustered_24d8bfc3-af64-4525-9dfc-bab6d1df6cbe_0.jpeg" width=300>
+<img src = "https://github.com/2326wz/Test_tasks/blob/master/Goods%20shelf%20clustering/results/shelf_clustered_2df842e3-2a23-46f0-8ef5-4e4806cfb92e_0.jpeg" width=300>   <img src = "https://github.com/2326wz/Test_tasks/blob/master/Goods%20shelf%20clustering/results/shelf_clustered_24d8bfc3-af64-4525-9dfc-bab6d1df6cbe_0.jpeg" width=300>
 
-<img src = "https://github.com/2326wz/Test_tasks/blob/master/Goods%20shelf%20clustering/results/shelf_clustered_47532b0d-96bc-4589-983f-1e3e5700626a_1.jpeg" width=300> <img src = "https://github.com/2326wz/Test_tasks/blob/master/Goods%20shelf%20clustering/results/shelf_clustered_d3518d48-72d7-47f8-b334-4e61244c4378_0.jpeg" width=300>
+<img src = "https://github.com/2326wz/Test_tasks/blob/master/Goods%20shelf%20clustering/results/shelf_clustered_47532b0d-96bc-4589-983f-1e3e5700626a_1.jpeg" width=300>   <img src = "https://github.com/2326wz/Test_tasks/blob/master/Goods%20shelf%20clustering/results/shelf_clustered_d3518d48-72d7-47f8-b334-4e61244c4378_0.jpeg" width=300>
 
 <img src = "https://github.com/2326wz/Test_tasks/blob/master/Goods%20shelf%20clustering/results/shelf_clustered_f3629039-af8c-4072-b956-32b77b762f0d_4.jpeg" width=300>
 
