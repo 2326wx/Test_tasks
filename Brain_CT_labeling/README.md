@@ -15,7 +15,7 @@ Provide results in Jupyter Notebook, write report in pdf or other format.
 
 1. De-rotate images.
 2. Make an exploratory analysis and pre-process images if needed.
-3. Select the classifier architecture and metrics and explain your selection.
+3. Select the classifier architecture and metrics, explain selection.
 4. Train classifier and estimate its quality by selected metrics.
 
 ## Files
