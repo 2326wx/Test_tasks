@@ -22,8 +22,21 @@ Provide results in Jupyter Notebook, write report in pdf or other format.
 
 Source data is too large to fit this repository. All data can be downloaded from [here](https://drive.google.com/drive/folders/1jfoFSAHDMd55cK-qsOhgETMjPngIzQ66?usp=sharing).
 
+**Отчет.pdf** - final report with analyticts and lots of text and pictures, no code there.
 
-## Results
+**main_notebook.ipynb** - notebook with solution.
+**baseline_metrics.py** - saved baseline metrics for model training.
+**modules.py** - all supplementary functions are here. File contains:
+	- Translation functions from Euler angles to rotation matrix and back. 
+	- Function for reading transform txt files
+	- Image preprocessing loader: it loads transform data for image, setup and verify transform, then transform segmentation file.
+	- Batch generator
+	- Load and save Pickle utilities
+	- Dice loss function
+	- Metrics Class
+	- Dataset creation function
+
+## Results example
 
 <img src = "https://github.com/2326wz/Test_tasks/blob/master/Brain_CT_labeling/images/Capture.PNG?raw=true">
 
