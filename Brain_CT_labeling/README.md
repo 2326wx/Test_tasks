@@ -22,7 +22,9 @@ Provide results in Jupyter Notebook, write report in pdf or other format.
 
 Source data is too large to fit this repository. All data can be downloaded from [here](https://drive.google.com/drive/folders/1jfoFSAHDMd55cK-qsOhgETMjPngIzQ66?usp=sharing).
 
+
 **Отчет.pdf** - final report with analyticts and lots of text and pictures, no code there.
+
 
 **main_notebook.ipynb** - notebook with solution.
 
