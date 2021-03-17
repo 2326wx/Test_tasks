@@ -8,6 +8,8 @@ Your task is to create a tool, which labels new images in a same way.
 
 Provide results in Jupyter Notebook, write report in pdf or other format.
 
+**Описание.pdf** - full task text.
+
 
 ## Hi-level solution algoritm
 
@@ -18,8 +20,9 @@ Provide results in Jupyter Notebook, write report in pdf or other format.
 
 ## Files
 
-Source data is too large to fit this repository. All data can be downloaded from here https://drive.google.com/drive/folders/1jfoFSAHDMd55cK-qsOhgETMjPngIzQ66?usp=sharing.
+Source data is too large to fit this repository. All data can be downloaded from [here](https://drive.google.com/drive/folders/1jfoFSAHDMd55cK-qsOhgETMjPngIzQ66?usp=sharing).
 
+****
 
 
 
