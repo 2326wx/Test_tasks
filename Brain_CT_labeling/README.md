@@ -40,6 +40,8 @@ Source data is too large to fit this repository. All data can be downloaded from
 	- Dice loss function
 	- Metrics Class
 	- Dataset creation function
+	
+**XZ train in Colab.ipynb, YZ train in Colab.ipynb** - notebooks with trainings, conducted in Google Colab - see report for details.
 
 ## Results example
 
