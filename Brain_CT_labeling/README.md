@@ -25,8 +25,11 @@ Source data is too large to fit this repository. All data can be downloaded from
 **Отчет.pdf** - final report with analyticts and lots of text and pictures, no code there.
 
 **main_notebook.ipynb** - notebook with solution.
+
 **baseline_metrics.py** - saved baseline metrics for model training.
+
 **modules.py** - all supplementary functions are here. File contains:
+
 	- Translation functions from Euler angles to rotation matrix and back. 
 	- Function for reading transform txt files
 	- Image preprocessing loader: it loads transform data for image, setup and verify transform, then transform segmentation file.
