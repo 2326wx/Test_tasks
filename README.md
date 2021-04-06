@@ -4,3 +4,4 @@
 - **Goods shelf clustering** - classify goods, located on a same shelf, with OpenCV and scikit-learn.
 - **Lenta** - simple NLP task for news topic classification. Source dataset: https://github.com/yutkin/Lenta.Ru-News-Dataset
 - **ML multitarget regression** - Find weaknesses and try to improve RMSE of basic solution, provided to you in Jupyter Notebook (CatBoost used).
+- **Brain_CT_labeling** -  The task is to create a tool, which labels brain sections on 3D CT image.
