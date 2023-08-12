@@ -4,7 +4,7 @@
 
 Basing on images and json files with bboxes coordinates, mark by colors all goods, located on a same shelf.
 
-## Solution algoritm
+## Solution algorithm
 
 1. Open each files pair: image and its markup.
 2. Partially clusterize markup: if some bboxes are very close to each other, join them into one (**shelf_from_img()** module.) Put new bboxes coords to dataframe **df**.
